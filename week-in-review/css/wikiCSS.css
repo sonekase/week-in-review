@@ -1,0 +1,14 @@
+.topper {
+  text-align: center;
+}
+
+.top {
+  width: 35px;
+  float: left;
+  margin: 30px;
+  color: blue;
+  position:absolute;
+}
+img {
+    width: 115px;
+}
