@@ -1,0 +1,11 @@
+.jumbotron h1 {
+  color: red;
+}
+
+.jumbotron ul li {
+  list-style: none;
+}
+
+.panel-heading ul li {
+  list-style: none;
+}
